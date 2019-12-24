@@ -7,3 +7,9 @@
 333
 
 B->update 111
+
+<<<<<<< HEAD
+BB 我也改了
+=======
+A->update hahahahaha
+>>>>>>> e83d314c017a3b6cd2c8209fa56f94c8f774741e
